@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-03-06T10:53:53.788+01:00
+  lastUpdatedAtString: 2021-03-06T11:47:43.109+01:00
   initializedAtString: 2021-03-06T10:31:31.003+01:00
   currentGitRemote:
     name: origin
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: titiDev
+    tracking: 
   currentConfigBranch:
-    name: master
+    name: titiDev
     remote:
-      name: origin
-      url: https://github.com/tMorand69/unity3Dtichatoz.git
-    trackingBranch: master
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/tMorand69/unity3Dtichatoz.git

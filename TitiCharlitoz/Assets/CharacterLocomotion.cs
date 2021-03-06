@@ -22,8 +22,5 @@ public class CharacterLocomotion : MonoBehaviour
 
         animator.SetFloat("InputX", input.x);
         animator.SetFloat("InputY", input.y);
-
-
-
     }
 }
