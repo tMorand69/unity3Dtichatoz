@@ -274,6 +274,21 @@
     <Reference Include="ICSharpCode.NRefactory">
       <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
+    <Reference Include="GitHub.Api.45">
+      <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Unity.45">
+      <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+    </Reference>
+    <Reference Include="sfw.net">
+      <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.UnityShim">
+      <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+    </Reference>
+    <Reference Include="GitHub.Logging">
+      <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>D:/Perso/UnityDev/Git/TitiCharlitoz/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
@@ -720,6 +735,10 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{D5DF5333-C223-C0B2-D3D3-EEC0A9C4D1D9}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{C5B7F547-7E5F-DDD4-DEB2-8060D30B7F1D}</Project>
+      <Name>Assembly-CSharp-Editor-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
