@@ -13,51 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-06T11:47:47.659+01:00
+  lastUpdatedAtString: 2021-03-06T12:35:29.484+01:00
   initializedAtString: 2021-03-06T10:31:31.459+01:00
   entries:
-  - path: TitiCharlitoz\.vs\TitiCharlitoz\v16\.suo
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\.vs\TitiCharlitoz\v16\.suo
-    projectPath: .vs\TitiCharlitoz\v16\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Assets\CharacterLocomotion.cs
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Assets\CharacterLocomotion.cs
-    projectPath: Assets\CharacterLocomotion.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Library\ArtifactDB
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Library\Artifacts\3c\3c4531f6540e9993e57bda021f89b20a
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\Artifacts\3c\3c4531f6540e9993e57bda021f89b20a
-    projectPath: Library\Artifacts\3c\3c4531f6540e9993e57bda021f89b20a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Library\Artifacts\6c\6c0c1172b92eb9dcb8b3de15d29543b7
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\Artifacts\6c\6c0c1172b92eb9dcb8b3de15d29543b7
-    projectPath: Library\Artifacts\6c\6c0c1172b92eb9dcb8b3de15d29543b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Library\CurrentLayout-default.dwlt
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Library\CurrentMaximizeLayout.dwlt
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: TitiCharlitoz\Library\gfu\cache\branches.yaml
     fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -100,30 +58,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TitiCharlitoz\Library\SceneVisibilityState.asset
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TitiCharlitoz\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: TitiCharlitoz\Library\SourceAssetDB
     fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -134,47 +68,17 @@ MonoBehaviour:
     fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\StateCache\Hierarchy\f1d094-mainStage.json
     projectPath: Library\StateCache\Hierarchy\f1d094-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TitiCharlitoz\Library\StateCache\SceneView\06967d-mainStage.json
     fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Library\StateCache\SceneView\06967d-mainStage.json
     projectPath: Library\StateCache\SceneView\06967d-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Temp\UnityTempFile-02ef2bd6f2211314cb4450bf6cc278c1
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\UnityTempFile-02ef2bd6f2211314cb4450bf6cc278c1
-    projectPath: Temp\UnityTempFile-02ef2bd6f2211314cb4450bf6cc278c1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TitiCharlitoz\Temp\__Backupscenes\0.backup
+    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Temp\UnityTempFile-1b6bfba8fd8762f45b8848ed20e3034e
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\UnityTempFile-1b6bfba8fd8762f45b8848ed20e3034e
-    projectPath: Temp\UnityTempFile-1b6bfba8fd8762f45b8848ed20e3034e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Temp\UnityTempFile-35a5886fea6495a45992345312accd97
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\UnityTempFile-35a5886fea6495a45992345312accd97
-    projectPath: Temp\UnityTempFile-35a5886fea6495a45992345312accd97
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Temp\UnityTempFile-881c9644ec41535419f76851d94250aa
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\UnityTempFile-881c9644ec41535419f76851d94250aa
-    projectPath: Temp\UnityTempFile-881c9644ec41535419f76851d94250aa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Temp\UnityTempFile-939723b50cee72d49a2d047bb607ec64
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\UnityTempFile-939723b50cee72d49a2d047bb607ec64
-    projectPath: Temp\UnityTempFile-939723b50cee72d49a2d047bb607ec64
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TitiCharlitoz\Temp\UnityTempFile-fbf008a0b2637aa4ca948c51dd6b7541
-    fullPath: D:\Perso\UnityDev\Git\TitiCharlitoz\Temp\UnityTempFile-fbf008a0b2637aa4ca948c51dd6b7541
-    projectPath: Temp\UnityTempFile-fbf008a0b2637aa4ca948c51dd6b7541
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3

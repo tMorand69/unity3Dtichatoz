@@ -12,6 +12,8 @@ public class CharacterLocomotion : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         
+
+        // test
     }
 
     // Update is called once per frame
